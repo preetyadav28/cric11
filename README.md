@@ -2,6 +2,10 @@
 
 A cricket grid trivia game. Fill a 3x3 grid by naming players who fit both the row and the column, for example someone who played for Mumbai Indians and for India. Work in progress.
 
+![CI](https://github.com/preetyadav28/cric11/actions/workflows/ci.yml/badge.svg)
+
+**Live:** [frontend](https://cric11-frontend.vercel.app/) · [API health check](https://cric11-backend.vercel.app/health)
+
 ## Structure
 
 - `frontend/`: React + Vite + TypeScript app
