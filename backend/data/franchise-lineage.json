@@ -1,0 +1,82 @@
+{
+  "_note": "Maps every Cricsheet team name in the eight leagues to one club key. Names in the same entry count as one club in the grid; display is the current name. The importer should fail on any team name not listed here.",
+  "ipl": [
+    { "key": "chennai-super-kings", "display": "Chennai Super Kings", "names": ["Chennai Super Kings"] },
+    { "key": "mumbai-indians", "display": "Mumbai Indians", "names": ["Mumbai Indians"] },
+    { "key": "kolkata-knight-riders", "display": "Kolkata Knight Riders", "names": ["Kolkata Knight Riders"] },
+    { "key": "rajasthan-royals", "display": "Rajasthan Royals", "names": ["Rajasthan Royals"] },
+    { "key": "delhi-capitals", "display": "Delhi Capitals", "names": ["Delhi Daredevils", "Delhi Capitals"] },
+    { "key": "punjab-kings", "display": "Punjab Kings", "names": ["Kings XI Punjab", "Punjab Kings"] },
+    { "key": "royal-challengers-bengaluru", "display": "Royal Challengers Bengaluru", "names": ["Royal Challengers Bangalore", "Royal Challengers Bengaluru"] },
+    { "key": "sunrisers-hyderabad", "display": "Sunrisers Hyderabad", "names": ["Sunrisers Hyderabad"] },
+    { "key": "deccan-chargers", "display": "Deccan Chargers", "names": ["Deccan Chargers"] },
+    { "key": "lucknow-super-giants", "display": "Lucknow Super Giants", "names": ["Lucknow Super Giants"] },
+    { "key": "gujarat-titans", "display": "Gujarat Titans", "names": ["Gujarat Titans"] },
+    { "key": "gujarat-lions", "display": "Gujarat Lions", "names": ["Gujarat Lions"] },
+    { "key": "rising-pune-supergiant", "display": "Rising Pune Supergiant", "names": ["Rising Pune Supergiants", "Rising Pune Supergiant"] },
+    { "key": "pune-warriors", "display": "Pune Warriors", "names": ["Pune Warriors"] },
+    { "key": "kochi-tuskers-kerala", "display": "Kochi Tuskers Kerala", "names": ["Kochi Tuskers Kerala"] }
+  ],
+  "bbl": [
+    { "key": "adelaide-strikers", "display": "Adelaide Strikers", "names": ["Adelaide Strikers"] },
+    { "key": "brisbane-heat", "display": "Brisbane Heat", "names": ["Brisbane Heat"] },
+    { "key": "hobart-hurricanes", "display": "Hobart Hurricanes", "names": ["Hobart Hurricanes"] },
+    { "key": "melbourne-renegades", "display": "Melbourne Renegades", "names": ["Melbourne Renegades"] },
+    { "key": "melbourne-stars", "display": "Melbourne Stars", "names": ["Melbourne Stars"] },
+    { "key": "perth-scorchers", "display": "Perth Scorchers", "names": ["Perth Scorchers"] },
+    { "key": "sydney-sixers", "display": "Sydney Sixers", "names": ["Sydney Sixers"] },
+    { "key": "sydney-thunder", "display": "Sydney Thunder", "names": ["Sydney Thunder"] }
+  ],
+  "cpl": [
+    { "key": "trinbago-knight-riders", "display": "Trinbago Knight Riders", "names": ["Trinidad & Tobago Red Steel", "Trinbago Knight Riders"] },
+    { "key": "guyana-amazon-warriors", "display": "Guyana Amazon Warriors", "names": ["Guyana Amazon Warriors"] },
+    { "key": "barbados", "display": "Barbados Tridents", "names": ["Barbados Tridents", "Barbados Royals"] },
+    { "key": "st-lucia", "display": "St Lucia Kings", "names": ["St Lucia Zouks", "St Lucia Stars", "St Lucia Kings"] },
+    { "key": "st-kitts-and-nevis-patriots", "display": "St Kitts and Nevis Patriots", "names": ["St Kitts and Nevis Patriots"] },
+    { "key": "jamaica-tallawahs", "display": "Jamaica Tallawahs", "names": ["Jamaica Tallawahs"] },
+    { "key": "jamaica-kingsmen", "display": "Jamaica Kingsmen", "names": ["Jamaica Kingsmen"] },
+    { "key": "antigua-hawksbills", "display": "Antigua Hawksbills", "names": ["Antigua Hawksbills"] },
+    { "key": "antigua-and-barbuda-falcons", "display": "Antigua and Barbuda Falcons", "names": ["Antigua and Barbuda Falcons"] }
+  ],
+  "sat": [
+    { "key": "durbans-super-giants", "display": "Durban's Super Giants", "names": ["Durban's Super Giants"] },
+    { "key": "joburg-super-kings", "display": "Joburg Super Kings", "names": ["Joburg Super Kings"] },
+    { "key": "mi-cape-town", "display": "MI Cape Town", "names": ["MI Cape Town"] },
+    { "key": "paarl-royals", "display": "Paarl Royals", "names": ["Paarl Royals"] },
+    { "key": "pretoria-capitals", "display": "Pretoria Capitals", "names": ["Pretoria Capitals"] },
+    { "key": "sunrisers-eastern-cape", "display": "Sunrisers Eastern Cape", "names": ["Sunrisers Eastern Cape"] }
+  ],
+  "ilt": [
+    { "key": "abu-dhabi-knight-riders", "display": "Abu Dhabi Knight Riders", "names": ["Abu Dhabi Knight Riders"] },
+    { "key": "desert-vipers", "display": "Desert Vipers", "names": ["Desert Vipers"] },
+    { "key": "dubai-capitals", "display": "Dubai Capitals", "names": ["Dubai Capitals"] },
+    { "key": "gulf-giants", "display": "Gulf Giants", "names": ["Gulf Giants"] },
+    { "key": "mi-emirates", "display": "MI Emirates", "names": ["MI Emirates"] },
+    { "key": "sharjah-warriorz", "display": "Sharjah Warriorz", "names": ["Sharjah Warriors", "Sharjah Warriorz"] }
+  ],
+  "mlc": [
+    { "key": "los-angeles-knight-riders", "display": "Los Angeles Knight Riders", "names": ["Los Angeles Knight Riders"] },
+    { "key": "mi-new-york", "display": "MI New York", "names": ["MI New York"] },
+    { "key": "san-francisco-unicorns", "display": "San Francisco Unicorns", "names": ["San Francisco Unicorns"] },
+    { "key": "seattle-orcas", "display": "Seattle Orcas", "names": ["Seattle Orcas"] },
+    { "key": "texas-super-kings", "display": "Texas Super Kings", "names": ["Texas Super Kings"] },
+    { "key": "washington-freedom", "display": "Washington Freedom", "names": ["Washington Freedom"] }
+  ],
+  "hnd": [
+    { "key": "birmingham-phoenix", "display": "Birmingham Phoenix", "names": ["Birmingham Phoenix"] },
+    { "key": "london-spirit", "display": "London Spirit", "names": ["London Spirit"] },
+    { "key": "southern-brave", "display": "Southern Brave", "names": ["Southern Brave"] },
+    { "key": "trent-rockets", "display": "Trent Rockets", "names": ["Trent Rockets"] },
+    { "key": "welsh-fire", "display": "Welsh Fire", "names": ["Welsh Fire"] },
+    { "key": "mi-london", "display": "MI London", "names": ["Oval Invincibles", "MI London"] },
+    { "key": "sunrisers-leeds", "display": "Sunrisers Leeds", "names": ["Northern Superchargers", "Sunrisers Leeds"] },
+    { "key": "manchester-super-giants", "display": "Manchester Super Giants", "names": ["Manchester Originals", "Manchester Super Giants"] }
+  ],
+  "lpl": [
+    { "key": "jaffna", "display": "Jaffna Kings", "names": ["Jaffna Stallions", "Jaffna Kings"] },
+    { "key": "colombo", "display": "Colombo Kaps", "names": ["Colombo Kings", "Colombo Stars", "Colombo Strikers", "Colombo Kaps"] },
+    { "key": "galle", "display": "Galle Gallants", "names": ["Galle Gladiators", "Galle Titans", "Galle Marvels", "Galle Gallants"] },
+    { "key": "dambulla", "display": "Dambulla Sixers", "names": ["Dambulla Viiking", "Dambulla Giants", "Dambulla Aura", "Dambulla Sixers"] },
+    { "key": "kandy", "display": "Kandy Royals", "names": ["Kandy Tuskers", "Kandy Warriors", "Kandy Falcons", "B-Love Kandy", "Kandy Royals"] }
+  ]
+}
