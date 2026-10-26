@@ -25,4 +25,4 @@ Tests: run `pnpm test` inside either folder.
 
 ## Data
 
-Match data comes from [Cricsheet](https://cricsheet.org) under the ODC-BY license. This is an unofficial fan project and is not affiliated with the BCCI, ICC, IPL or any other cricket league and board.
+Match data comes from [Cricsheet](https://cricsheet.org) under the ODC-BY license. National caps lists and tournament squads come from [Wikipedia](https://en.wikipedia.org) (CC BY-SA), linked to players through [Wikidata](https://www.wikidata.org) (CC0). See [docs/data-audit.md](docs/data-audit.md) for coverage and limits. This is an unofficial fan project and is not affiliated with the BCCI, ICC, IPL or any other cricket league and board.
